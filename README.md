@@ -10,6 +10,7 @@ weights中smoke_fire.pt是最终选择的模型，因为文件过大放不上git
 提取码：gyd5 
 
 readme-images 里面是运行后的效果图对比
+![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001.png)
 
 运行时更改图片路径后直接运行detect.py即可，放入图片、含图片文件夹、视频皆可，仅需改变‘--source’的内容，操作如下：
 
