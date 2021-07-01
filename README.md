@@ -21,6 +21,7 @@ readme-images 里面是运行后的效果图对比
 
 ②实时模式
 176行  default='data/images'  改成  default='0'  
+停止实时观看并保存视频，请按'q'
 （注意，若要修改对应参数，请在174行往后改）
 
 train、test所需数据集data0已上传百度云，链接：https://pan.baidu.com/s/1gaOFeHdqwmYAqQVbIMqnVw 
