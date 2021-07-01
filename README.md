@@ -21,7 +21,7 @@ readme-images 里面是运行后的效果图对比
 176行  default='data/images'  改成  default='0'  
 （注意，若要修改对应参数，请在174行往后改）
 
-数据集已上传百度云，链接：https://pan.baidu.com/s/1gaOFeHdqwmYAqQVbIMqnVw 
+train、test所需数据集data0已上传百度云，链接：https://pan.baidu.com/s/1gaOFeHdqwmYAqQVbIMqnVw 
 提取码：z708 
 
 其中1660张为网上数据集中自己label修订后得到（发现网上数据集存在label标注误差大、对烟的标注极少的问题），3320张为数据增强后获得。
