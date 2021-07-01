@@ -27,6 +27,7 @@ train、test所需数据集data0已上传百度云，链接：https://pan.baidu.
 
 其中1660张为网上数据集中自己label修订后得到（发现网上数据集存在label标注误差大、对烟的标注极少的问题），3320张为数据增强后获得。
 
-运行后的效果图对比：
-![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001.png)
-![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001-detect.png)
+## 运行后的效果图对比：
+![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001.png)  ![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001-detect.png)
+
+![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/002.png)  ![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/002-detect.png)
