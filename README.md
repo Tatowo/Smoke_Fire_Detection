@@ -9,10 +9,6 @@ weights中smoke_fire.pt是最终选择的模型，因为文件过大放不上git
 链接：https://pan.baidu.com/s/1jJv3Y6wC9LJdahAzDTJcBg 
 提取码：gyd5 
 
-readme-images 里面是运行后的效果图对比
-![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001.png)
-![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001-detect.png)
-
 运行时更改图片路径后直接运行detect.py即可，放入图片、含图片文件夹、视频皆可，仅需改变‘--source’的内容，操作如下：
 
 ①默认为图片/视频模式：
@@ -30,3 +26,7 @@ train、test所需数据集data0已上传百度云，链接：https://pan.baidu.
 提取码：z708 
 
 其中1660张为网上数据集中自己label修订后得到（发现网上数据集存在label标注误差大、对烟的标注极少的问题），3320张为数据增强后获得。
+
+运行后的效果图对比：
+![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001.png)
+![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001-detect.png)
