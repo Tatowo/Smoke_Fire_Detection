@@ -30,4 +30,4 @@ train、test所需数据集data0已上传百度云，链接：https://pan.baidu.
 ## 运行后的效果图对比：
 ![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001.png)  ![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/001-detect.png)
 
-![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/002.png)  ![image](https://github.com/sysu19351164/SF_Detection/blob/main/readme-images/002-detect.png)
+其余对比图见readme-images
