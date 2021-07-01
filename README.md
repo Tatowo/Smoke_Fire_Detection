@@ -18,7 +18,7 @@ weights中smoke_fire.pt是最终选择的模型，因为文件过大放不上git
 若要在运行时显示，请在182行(view-img)加入default=True
 
 ②实时模式
-176行  default='data/images'  改成  default='0'  
+176行  default='test/images'  改成  default='0'  
 停止实时观看并保存视频，请按'q'
 （注意，若要修改对应参数，请在174行往后改）
 
